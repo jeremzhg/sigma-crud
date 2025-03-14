@@ -1,5 +1,5 @@
 def main():
-    print("Hello from sigma-crud!")
+    print("Hello from sql!")
 
 
 if __name__ == "__main__":
